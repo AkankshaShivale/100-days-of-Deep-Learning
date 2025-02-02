@@ -8,7 +8,7 @@ Watch the playlist here: [100 Days of Deep Learning by CampusX](https://www.yout
 
 ## Repository Structure
 
-- Each day’s folder contains code related to that day’s topic.
+- Each day’s file contains code related to that day’s topic.
 
 ## Credits
 
